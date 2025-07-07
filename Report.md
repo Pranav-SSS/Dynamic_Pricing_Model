@@ -71,7 +71,7 @@ This report outlines the development of a **real-time dynamic pricing system** t
 
 ---
 
-## 4. 🔧 Performance Issue with Competitive Pricing Model (Cell 11)
+## 4. 🔧 Performance Issue with Competitive Pricing Model
 
 ### Problem:
 The competitive pricing model suffers from slow performance due to nested loops performing expensive distance calculations for each lot pair. This results in O(N²) complexity.
