@@ -154,8 +154,6 @@ pip install pandas numpy bokeh pathway
 ├── Dynamic_Pricing_Model.ipynb    # Main implementation notebook
 ├── capstone_dataset.csv           # Raw dataset
 ├── problem statement.pdf          # Problem description
-├── architecture_diagram.png       # Architecture Diagram
-├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
 
